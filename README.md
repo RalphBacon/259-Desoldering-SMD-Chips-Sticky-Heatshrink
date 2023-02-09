@@ -14,7 +14,7 @@ Desoldering chips (and, indeed, anything with lots of pins) can be a challenge i
 
 Here I show you a brand name desoldering alloy that is perfect for the job!
 
-And also how to join two wires for (outdoor) use to make them strong and waterproof (mine's going into my goldfish pond!) using a special heat shrink that is not only strong but waterproof too.  
+And also how to join two low-voltage wires for (outdoor) use to make them strong and waterproof (mine's going into my goldfish pond!) using a special heat shrink that is not only strong but waterproof too.  
 
 ## 2. Hardware mentioned in the video
 4:1 ratio adhesive heat shrink box (Amazon)  
